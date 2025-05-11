@@ -1,0 +1,27 @@
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+obj/
+.VS/
+UserSettings/
+MemoryCaptures/
+Logs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.suo
+*.userprefs
+*.booproj
+*.svd
+.vscode/
+.DS_Store
+
+# İzin verilen klasörler
+!Assets/
+!Packages/
+!ProjectSettings/
+.vs/

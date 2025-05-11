@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - finish
+  - car
+  - destroy
+  - destroy3
+  - destroy4
+  - destroy2
+  - destroy5
+  - destroy6
+  - destroy7
+  - destroy8
+  - destroy9
+  - destroy10
+  - destroy11
+  - destroy12
+  - kamera
+  - Donus
+  - yayaGecti
+  - yayaController
+  - Yaya
+  - Ring
+  - Sollama
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Raycast
+  - Water
+  - UI
+  - 6
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
